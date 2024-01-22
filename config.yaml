@@ -1,0 +1,6 @@
+SEED: 17
+N_POWER: 2.37
+ERROR_RATE: 1e-7
+PRODUCT_TYPE: 'element-wise and sum'
+BATCH_SIZE: 64
+EPOCHS: 25
